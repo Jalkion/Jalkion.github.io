@@ -1,6 +1,7 @@
 ---
 layout: default
 title: testing title
+page.title: testing title
 ---
 
 # Pineapple pizza is the best, if you don't like pineapple pizza you're an asshole.
