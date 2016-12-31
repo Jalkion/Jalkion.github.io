@@ -7,6 +7,4 @@ title: Only pineapple pizza is real
 
 _Not that it's a big deal or anything._
 
-### Large image
-
 ![](https://raw.githubusercontent.com/Jalkion/jalkion.github.io/master/pizza-576551_1280.png)
