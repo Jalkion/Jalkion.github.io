@@ -1,6 +1,6 @@
 ---
 layout: default
-title: test
+title: Only pineapple pizza is real
 ---
 
 # Pineapple pizza is the best, if you don't like pineapple pizza you're an asshole.
