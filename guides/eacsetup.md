@@ -11,7 +11,7 @@ Step 1: Download and install EAC
 
 Download the installer and fire it up.
 
-!(https://web.archive.org/web/20140714023611im_/http://blowfish.be/eac/Caaok/Images/eac01.png)
+![alt text](https://web.archive.org/web/20140714023611im_/http://blowfish.be/eac/Caaok/Images/eac01.png)
 
 Eventually you'll get to a screen like this. Make sure you install AccurateRip, CDRDAO, CTDB and freedb as a bare minimum. FLAC will be useful as well if you don't have it separately installed. GD3 is only useful if you want to pay for metadata results. I assume you don't. 
 Note: The above screenshot is from Beta 3. The new Beta 3 adds the option to include the CueTools Database Plugin. It is recommended to install it but not required. Full details for installation of the plugin on older versions is located in the appendix at the end of this guide.
