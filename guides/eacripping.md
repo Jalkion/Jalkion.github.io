@@ -3,7 +3,7 @@ This guide was made for EAC version 1.0 beta 2 and will not completely work with
 Anything with a green outline around it is a required setting. Anything orange is required but depends on your drive. Anything unmarked is optional.
 
 This is meant to be a no-frills guide with little extra info. A more comprehensive (but outdated) guide can be found here:
-http://www.afterdawn.com/guides/archive/rip_cds_with_exact_audio_copy.cfm
+<http://www.afterdawn.com/guides/archive/rip_cds_with_exact_audio_copy.cfm>
 
 #Step 1: Tagging
 
